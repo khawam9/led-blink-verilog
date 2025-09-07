@@ -16,7 +16,7 @@ Simulated using **EDAPlayground** and viewed with **EPWave**.
 
 | Waveform Screenshot |
 |---------------------|
-| ![Waveform of LED toggling](img/waveform.png)
+| ![Waveform of LED toggling](img/verilog_waveform.png.jpg)
 
 ## 📁 File Structure
 
